@@ -1,0 +1,38 @@
+{
+  "name": "Bordatex - Cuentas de cobro",
+  "short_name": "Bordatex",
+  "description": "Genera y administra las cuentas de cobro de Bordatex, con numeración consecutiva, código QR y PDF listo para enviar al cliente.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffdfd",
+  "theme_color": "#a4133c",
+  "orientation": "portrait-primary",
+  "lang": "es-CO",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
